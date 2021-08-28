@@ -5,5 +5,9 @@ public class Car {
     public void startEngine(){
         System.out.println("engine was started");
     }
+
+    public void test(){
+        System.out.println("2222");
+    }
 }
 
